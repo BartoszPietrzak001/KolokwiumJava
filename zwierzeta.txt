@@ -1,0 +1,8 @@
+Znajdujesz sie na pierwszym brzegu  
+  Brzeg 1: 
+Wilk Imie: Stefan , ilosc koz: 19  
+Koza Imie: Basia , ilosc kapust: 19  
+Kapusta Rodzaj: z grzybami  
+
+  Brzeg 2:   
+  Liczba wykonanych iteracji: 0
